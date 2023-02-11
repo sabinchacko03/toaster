@@ -13,7 +13,8 @@ class ToasterProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        $this->loadViewsFrom(__DIR__.'../../views', 'toaster');
+        $this->loadViewsFrom(__DIR__.'../views', 'toaster');
+
         Livewire::component('toaster', Toaster::class);
     }
 }
