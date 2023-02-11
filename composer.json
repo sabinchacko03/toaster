@@ -1,0 +1,24 @@
+{
+    "name": "sabinchacko/toaster",
+    "description": "A beautiful toaster component for laravel redirections, with messages - With the help of livewire",
+    "autoload": {
+        "psr-4": {
+            "SabinChacko\\Toaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sabin Chacko"
+        }
+    ],
+    "require": {
+        "livewire/livewire": "^2.11"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SabinChacko\\Toaster\\Providers\\ToasterProvider\\"
+            ]
+        }
+    }
+}
