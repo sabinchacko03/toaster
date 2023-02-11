@@ -1,6 +1,6 @@
 {
     "name": "sabinchacko/toaster",
-    "description": "A beautiful toaster component for laravel redirections, with messages - With the help of livewire",
+    "description": "A beautiful toaster component for Laravel redirections, with messages - With the help of Livewire & TailwindCSS",
     "autoload": {
         "psr-4": {
             "SabinChacko\\Toaster\\": "src/"
