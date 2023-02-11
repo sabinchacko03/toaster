@@ -1,6 +1,6 @@
 <?php
 
-namespace SabinChacko\Toaster\Providers;
+namespace SabinChacko\Toaster;
 
 use Illuminate\Support\ServiceProvider;
 use Livewire\Livewire;

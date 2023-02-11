@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SabinChacko\\Toaster\\Providers\\ToasterProvider\\"
+                "SabinChacko\\Toaster\\ToasterProvider\\"
             ]
         }
     }
