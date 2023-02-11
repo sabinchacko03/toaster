@@ -1,16 +1,17 @@
 {
     "name": "sabinchacko/toaster",
     "description": "A beautiful toaster component for Laravel redirections, with messages - With the help of Livewire & TailwindCSS",
-    "autoload": {
-        "psr-4": {
-            "SabinChacko\\Toaster\\": "src/"
-        }
-    },
+    "license": "MIT",
     "authors": [
         {
             "name": "Sabin Chacko"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "SabinChacko\\Toaster\\": "src/"
+        }
+    },
     "require": {
         "livewire/livewire": "^2.11"
     },
