@@ -13,12 +13,5 @@
     ],
     "require": {
         "livewire/livewire": "^2.11"
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "SabinChacko\\Toaster\\ToasterProvider"
-            ]
-        }
     }
 }
