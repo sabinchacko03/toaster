@@ -28,6 +28,7 @@ In order to use this component, you must include `@livewireStyles` and `@livewir
 then,
 
 You can use `@livewire('toaster')` or `<livewire:toaster />` to see the Toaster in that page.
+
 Any redirections to that page with flashed messages (success, fail, warning) will show the toaster for 3 seconds.
 
 ## Example
